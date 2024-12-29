@@ -1,2 +1,6 @@
 # personal-anilist-automail
-using hoh's automail script (modified)
+Using hoh's automail script (modified).
+
+Link: https://greasyfork.org/en/scripts/370473-automail
+
+Version: 10.5.3
